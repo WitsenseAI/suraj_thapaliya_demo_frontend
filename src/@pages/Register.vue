@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-gradient-to-r from-blue-900 to-sky-900  min-h-screen h-fit w-full flex items-center justify-center font-poppins py-8">
+    <section class="bg-gradient-to-r  from-[#98C23C] to-[#7da52e] min-h-screen h-fit w-full flex items-center justify-center font-poppins py-8">
       <div class="  "></div>
       <div class="relative w-full max-w-md mx-auto px-6">
         <div class="bg-white rounded-lg shadow-md overflow-hidden">
